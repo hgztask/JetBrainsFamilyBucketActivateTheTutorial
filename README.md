@@ -1,0 +1,2 @@
+# JetBrainsFamilyBucketActivateTheTutorial
+JetBrains全家桶补丁脚本激活教程 ，使用脚本激活之后需要用对应的激活码才能完全激活
